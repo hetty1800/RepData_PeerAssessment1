@@ -7,6 +7,7 @@ output:
 
 
 **Loading and preprocessing the data**
+
 data<-read.csv("activity.csv")
 
 
