@@ -108,7 +108,7 @@ summary(data1$steps)
 ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 ##       0    6778   10400    9355   12810   21190
 ```
-
+The mean and median of the total number of steps taken per day are: 9355 and 10400,respectively.
 
 **2.What is the average daily activity pattern?**
 
